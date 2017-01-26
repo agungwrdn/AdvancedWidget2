@@ -1,7 +1,7 @@
 # AdvancedWidget2
 ## Screnschoot
-![AdvancedWidget2](http://s17.postimg.org/5bzudz9wf/advancedwidget2.png)
-![AdvancedWidget2](http://s3.postimg.org/69m9c8hlv/advancedwidget2_2.png)
+![AdvancedWidget2](https://github.com/agungwrdn/AdvancedWidget2/blob/master/Screenshot_20170126-143510.jpg)
+![AdvancedWidget2](https://github.com/agungwrdn/AdvancedWidget2/blob/master/Screenshot_20170126-143521.jpg)
 
 ##  Identitas Diri
    - Nama          : Rahardian Agung Wardana
